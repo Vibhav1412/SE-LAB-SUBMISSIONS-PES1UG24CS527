@@ -1,4 +1,4 @@
-# ⚡ SOFTWARE ENGINEERING LABS
+# SOFTWARE ENGINEERING LABS
 
 <div align="center">
 
