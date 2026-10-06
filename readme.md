@@ -126,7 +126,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 | Lab 4 implementation | 📌 |
 | Future laboratory work | ⏳ |
 
-*Update the tracker to reflect what is actually committed and submitted.*
+
 
 ---
 
