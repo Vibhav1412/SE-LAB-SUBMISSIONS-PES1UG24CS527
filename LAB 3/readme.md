@@ -23,7 +23,7 @@
 ### 🧩 DELIVERABLES
 
 | FILE | DESCRIPTION |
-|:---|:---|
+|:---|:---|---
 | 📐 Component Diagram | UML Architecture |
 | 📄 Justification | Architecture Decision |
 
