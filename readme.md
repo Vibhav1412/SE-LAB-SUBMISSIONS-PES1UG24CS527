@@ -48,7 +48,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 | 📁 `LAB-2/` | Agile backlog creation and Jira sprint simulation |
 | 📁 `LAB-3/` | Component modelling and architectural pattern selection |
 | 📁 `LAB-4/` | Vibe coding, debugging, and feature implementation |
-| 📁 `LAB-5/` | *To be added when assigned* |
+| 📁 `LAB-5/` | Static code analysis, security auditing, and code quality refactoring |
 
 </div>
 
@@ -93,6 +93,16 @@ This repository organizes my Software Engineering laboratory work in one place �
 
 </details>
 
+<details>
+<summary><b>🔍 LAB 5 — Static Analysis & Code Quality</b></summary>
+
+- Static code analysis of the existing codebase
+- Security auditing and vulnerability identification
+- Code quality refactoring and improvements
+- Analysis report and findings
+
+</details>
+
 ## ◈ `04` — TOOLKIT
 
 <div align="center">
@@ -105,7 +115,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 
 </div>
 
-**Core practices:** Agile and Scrum · Requirements Engineering · UML · Software Architecture · Version Control · Technical Documentation
+**Core practices:** Agile and Scrum · Requirements Engineering · UML · Software Architecture · Version Control · Technical Documentation · Static Code Analysis · Security Auditing · Code Refactoring
 
 ## ◈ `05` — SUBMISSION PRINCIPLES
 
@@ -124,6 +134,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 | Lab 2 Jira report | 📌 |
 | Lab 3 modelling | 📌 |
 | Lab 4 implementation | 📌 |
+| Lab 5 static analysis & refactoring | 📌 |
 | Future laboratory work | ⏳ |
 
 
