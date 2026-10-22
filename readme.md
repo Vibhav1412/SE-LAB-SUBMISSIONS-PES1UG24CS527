@@ -145,10 +145,9 @@ This repository organizes my Software Engineering laboratory work in one place �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2FF7,50:00D4FF,100:090979" width="100%" />
 
-### `ENGINEER THE PROCESS. BUILD THE SOLUTION.`
 
 **Vibhav M** · PES1UG24CS527
 
-<sub>Software Engineering Laboratory · Learn → Design → Build → Deliver</sub>
+<sub>Software Engineering Laboratory</sub>
 
 </div>
