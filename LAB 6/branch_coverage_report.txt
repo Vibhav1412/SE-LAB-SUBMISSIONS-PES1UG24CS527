@@ -1,0 +1,6 @@
+Name                                         Stmts   Miss Branch BrPart  Cover   Missing
+----------------------------------------------------------------------------------------
+BranchCoverageTest_irrigation_scheduler.py      82      0      0      0   100%
+irrigation_scheduler.py                         38      0     28      0   100%
+----------------------------------------------------------------------------------------
+TOTAL                                          120      0     28      0   100%
