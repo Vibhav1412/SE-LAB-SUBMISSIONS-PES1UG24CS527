@@ -12,7 +12,7 @@
 ### About the Project
 A Python module designed to optimize agricultural water distribution by deciding when a field zone requires watering, calculating volume demands adjusted for crop stage and temperature, and creating an optimal schedule constrained by an overall water budget.
 
-### Deliverables Checklist
+### Deliverables Checklist !
 
 | Deliverable | File | Description |
 | :--- | :--- | :--- |
