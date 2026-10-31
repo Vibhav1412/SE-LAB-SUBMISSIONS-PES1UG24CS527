@@ -34,7 +34,7 @@ PURPOSE     : ACADEMIC PROJECTS & LAB SUBMISSIONS
 STATUS      : ACTIVELY MAINTAINED
 ```
 
-This repository organizes my Software Engineering laboratory work in one place — from requirements engineering and UML modelling to Agile planning, architecture design, implementation, and documentation.
+This repository organizes my Software Engineering laboratory work in one place — from requirements engineering and UML modelling to Agile planning, architecture design, implementation, static code analysis, and test coverage analysis.
 
 > 💡 Learn by building. Improve by iterating. Deliver with clarity.
 
@@ -49,6 +49,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 | 📁 `LAB-3/` | Component modelling and architectural pattern selection |
 | 📁 `LAB-4/` | Vibe coding, debugging, and feature implementation |
 | 📁 `LAB-5/` | Static code analysis, security auditing, and code quality refactoring |
+| 📁 `LAB-6/` | Code and branch coverage analysis with pytest and coverage.py |
 
 </div>
 
@@ -103,19 +104,31 @@ This repository organizes my Software Engineering laboratory work in one place �
 
 </details>
 
+<details>
+<summary><b>🧪 LAB 6 — Code and Branch Coverage Analysis</b></summary>
+
+- Statement & decision branch coverage analysis on irrigation scheduler
+- 100% line coverage and 100% branch coverage test suites
+- Terminal execution output reports and visual artifacts
+- Test case design matrix and comprehensive coverage report
+
+</details>
+
 ## ◈ `04` — TOOLKIT
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-171717?style=for-the-badge&logo=markdown&logoColor=white" />
 
 </div>
 
-**Core practices:** Agile and Scrum · Requirements Engineering · UML · Software Architecture · Version Control · Technical Documentation · Static Code Analysis · Security Auditing · Code Refactoring
+**Core practices:** Agile and Scrum · Requirements Engineering · UML · Software Architecture · Version Control · Technical Documentation · Static Code Analysis · Security Auditing · Code Refactoring · Code Coverage · Branch Coverage · Unit Testing
 
 ## ◈ `05` — SUBMISSION PRINCIPLES
 
@@ -135,6 +148,7 @@ This repository organizes my Software Engineering laboratory work in one place �
 | Lab 3 modelling | 📌 |
 | Lab 4 implementation | 📌 |
 | Lab 5 static analysis & refactoring | 📌 |
+| Lab 6 code & branch coverage | 📌 |
 | Future laboratory work | ⏳ |
 
 
