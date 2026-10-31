@@ -1,0 +1,6 @@
+Name                                       Stmts   Miss  Cover   Missing
+------------------------------------------------------------------------
+CodeCoverageTest_irrigation_scheduler.py      32      0   100%
+irrigation_scheduler.py                       38      0   100%
+------------------------------------------------------------------------
+TOTAL                                         70      0   100%
